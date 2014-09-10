@@ -1,0 +1,149 @@
+Output from NeEstimator v.2
+Starting time: Mon Jul 28 15:04:20 2014
+Input File: "TrinHistFixed_SpringnoSalmon_GP2.txt"
+
+Number of Loci = 91
+
+Non-polymorphic loci:    64,    77
+Total non-polymorphic = 2
+
+Non-polymorphic loci:    43,    53,    64,    77
+Total non-polymorphic = 4
+
+Non-polymorphic loci:    43,    64,    77
+Total non-polymorphic = 3
+
+
+Population: 78TrinSpring_001/92TrinSpring_001/2011TrinSpring_001,	3 Samples,	Sample Sizes: 193/153/346
+
+TEMPORAL METHODS (Pollack, Nei/Tajima, Jorde/Ryman), Plan II.
+--------------------------------------------------------------------------
+Lowest Allele Frequency Used     0.050       0.020       0.010         0+   
+==========================================================================
+Samples  1[ing_001] & 2[ing_001]
+Generations     0.0 & 3.0    
+
+   Independent Alleles =          77          85          87          89
+   -----------------------------------------------------------------------
+  (Pollak)
+   Harmonic Mean Samp Size =     135.1       137.1       137.7       138.3  
+                 Fk =          0.01129     0.01084     0.01103     0.01133
+                 F' =          0.00514     0.00469     0.00488     0.00519
+               * Ne =            291.9       319.7       307.4       289.1
+
+     95% CIs for Ne:
+     * Parametric                176.2       194.5       188.9       180.0
+                                1461.2      1657.3      1362.2      1079.7
+     * Jackknife on Loci         172.0       187.3       182.8       177.2
+                                 552.3       619.2       578.1       515.9
+   -----------------------------------------------------------------------
+  (Nei/Tajima)
+   Harmonic Mean Samp Size =     135.1       137.1       137.7       138.3  
+                 Fc =          0.01092     0.01051     0.01069     0.01099
+                 F' =          0.00351     0.00322     0.00343     0.00376
+               * Ne =            427.0       466.0       437.3       399.2
+
+     95% CIs for Ne:
+     * Parametric                187.9       206.6       200.5       190.8
+                                2012.1      2284.2      1767.9      1329.7
+     * Jackknife on Loci         216.8       235.4       227.5       218.0
+                                1255.7      1434.3      1208.3       955.2
+   -----------------------------------------------------------------------
+  (Jorde/Ryman)
+   Harmonic Mean Samp Size =     135.1       137.1       137.7       138.3  
+                 Fs =          0.01064     0.01057     0.01059     0.01060
+                 F' =          0.00321     0.00326     0.00331     0.00335
+               * Ne =            466.7       460.2       453.4       447.6
+
+     95% CIs for Ne:
+     * Parametric                331.1       332.4       328.8       325.9
+                                 625.2       608.5       597.7       588.3
+     * Jackknife on Loci      Infinite    Infinite    Infinite    Infinite
+                              Infinite    Infinite    Infinite    Infinite
+==========================================================================
+Samples  1[ing_001] & 3[ing_001]
+Generations     0.0 & 7.0    
+
+   Independent Alleles =          77          85          87          89
+   -----------------------------------------------------------------------
+  (Pollak)
+   Harmonic Mean Samp Size =     177.9       181.5       182.5       183.6  
+                 Fk =          0.01040     0.01031     0.01018     0.01042
+                 F' =          0.00604     0.00595     0.00582     0.00608
+               * Ne =            579.9       588.6       600.9       576.0
+
+     95% CIs for Ne:
+     * Parametric                387.4       399.7       409.3       394.6
+                                1635.3      1532.7      1561.9      1409.4
+     * Jackknife on Loci         342.2       355.3       362.6       356.7
+                                1020.9      1011.5      1035.4       959.0
+   -----------------------------------------------------------------------
+  (Nei/Tajima)
+   Harmonic Mean Samp Size =     177.9       181.5       182.5       183.6  
+                 Fc =          0.01044     0.01032     0.01020     0.01043
+                 F' =          0.00481     0.00481     0.00472     0.00499
+               * Ne =            727.1       727.0       741.0       702.1
+
+     95% CIs for Ne:
+     * Parametric                385.2       398.5       407.6       394.1
+                                1614.3      1523.1      1548.3      1406.1
+     * Jackknife on Loci         398.0       409.9       417.7       407.6
+                                1533.4      1459.2      1491.1      1338.8
+   -----------------------------------------------------------------------
+  (Jorde/Ryman)
+   Harmonic Mean Samp Size =     177.9       181.5       182.5       183.6  
+                 Fs =          0.00978     0.00978     0.00977     0.00979
+                 F' =          0.00415     0.00426     0.00428     0.00432
+               * Ne =            844.4       822.4       818.1       810.0
+
+     95% CIs for Ne:
+     * Parametric                599.1       594.1       593.3       589.8
+                                1131.1      1087.5      1078.4      1064.8
+     * Jackknife on Loci         474.3       473.6       473.3       471.4
+                                3843.3      3123.0      3011.8      2874.4
+==========================================================================
+Samples  2[ing_001] & 3[ing_001]
+Generations     3.0 & 7.0    
+
+   Independent Alleles =          77          85          87          88
+   -----------------------------------------------------------------------
+  (Pollak)
+   Harmonic Mean Samp Size =     209.3       209.5       209.5       209.6  
+                 Fk =          0.00539     0.00518     0.00520     0.00518
+                 F' =          0.00062     0.00041     0.00043     0.00041
+               * Ne =           3241.3      4924.9      4634.0      4933.3
+
+     95% CIs for Ne:
+     * Parametric                708.1       834.8       832.8       850.6
+                              Infinite    Infinite    Infinite    Infinite
+     * Jackknife on Loci      Infinite    Infinite    Infinite    Infinite
+                              Infinite    Infinite    Infinite    Infinite
+   -----------------------------------------------------------------------
+  (Nei/Tajima)
+   Harmonic Mean Samp Size =     209.3       209.5       209.5       209.6  
+                 Fc =          0.00539     0.00518     0.00520     0.00518
+                 F' =          0.00062     0.00041     0.00043     0.00041
+               * Ne =           3250.8      4910.9      4633.8      4925.6
+
+     95% CIs for Ne:
+     * Parametric                708.4       833.8       832.4       849.8
+                              Infinite    Infinite    Infinite    Infinite
+     * Jackknife on Loci      Infinite    Infinite    Infinite    Infinite
+                              Infinite    Infinite    Infinite    Infinite
+   -----------------------------------------------------------------------
+  (Jorde/Ryman)
+   Harmonic Mean Samp Size =     209.3       209.5       209.5       209.6  
+                 Fs =          0.00490     0.00487     0.00487     0.00487
+                 F' =          0.00011     0.00009     0.00009     0.00009
+               * Ne =          17545.6     21394.3     21189.2     21070.0
+
+     95% CIs for Ne:
+     * Parametric              12448.3     15454.2     15368.2     15311.7
+                               23504.3     28288.3     27933.2     27735.8
+     * Jackknife on Loci      Infinite    Infinite    Infinite    Infinite
+                              Infinite    Infinite    Infinite    Infinite
+==========================================================================
+
+Ending time: Mon Jul 28 15:04:20 2014
+-------------------------------------
+

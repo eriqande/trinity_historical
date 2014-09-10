@@ -1,0 +1,6 @@
+*.aux
+*.log
+*.synctex*
+trinity_historical.pdf
+*.blg
+*.pdfsync
